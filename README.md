@@ -25,7 +25,7 @@ git clone https://github.com/jolbinsk1/portfolio_web_scraping.git
 2) Run the Script:
 
 ```bash
-python script.py
+python get_pics_for_website.py
 ```
 
 ## Functions
