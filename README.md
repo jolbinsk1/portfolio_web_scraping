@@ -19,8 +19,7 @@ pip install requests beautifulsoup4 lxml Pillow
 1) Clone the Repository:
 
 ```bash
-git clone <repository_url>
-cd <repository_directory>
+git clone https://github.com/jolbinsk1/portfolio_web_scraping.git
 ```
 
 2) Run the Script:
